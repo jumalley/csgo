@@ -9,11 +9,13 @@ Config file for csgo, using some gameplay enhancements.
 * TOGGLABLE NETGRAPH WHEN TAB IS PRESSED
 * MAP ZOOM + / - TO ZOOM IN OR OUT OF THE MAP
 
+### dir 'csgo/cfg/miscs/give_all_items.cfg'
+Give all weapons to the player.
+
 ## Usage in CSGO console
 
 ```console
 exec autoexec
-
 ```
 
 ## Contributing
