@@ -1,5 +1,5 @@
 # CSGO
-### dir 'csgo/cfg/*.cfg'
+### ```dir 'csgo/cfg/*.cfg'```
 Config file for csgo, using some gameplay enhancements.
 
 * SHOW TEAMMATES EQUIPMENT THRU THE WALLS
@@ -9,10 +9,10 @@ Config file for csgo, using some gameplay enhancements.
 * TOGGLABLE NETGRAPH WHEN TAB IS PRESSED
 * MAP ZOOM + / - TO ZOOM IN OR OUT OF THE MAP
 
-### dir 'csgo/cfg/miscs/give_all_items.cfg'
+### ```dir 'csgo/cfg/miscs/give_all_items.cfg'```
 Give all weapons to the player.
 
-### dir 'csgo/txt/*.txt'
+### ```dir 'csgo/txt/*.txt'```
 Modify Csgo basic functions to your needs.
 
 ## Usage in CSGO console
