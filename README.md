@@ -12,6 +12,9 @@ Config file for csgo, using some gameplay enhancements.
 ### dir 'csgo/cfg/miscs/give_all_items.cfg'
 Give all weapons to the player.
 
+### dir 'csgo/txt/*.txt'
+Modify Csgo basic functions to your needs.
+
 ## Usage in CSGO console
 
 ```console
