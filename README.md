@@ -1,5 +1,7 @@
 # CSGO.cfg
 
+dir 'csgo/cfg/*.cfg'
+
 Config file for csgo, using some gameplay enhancements.
 
 * SHOW TEAMMATES EQUIPMENT THRU THE WALLS
