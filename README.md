@@ -1,4 +1,4 @@
-# CSGO.cfg
+# CSGO
 
 dir 'csgo/cfg/*.cfg'
 
